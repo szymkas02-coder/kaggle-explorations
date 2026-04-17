@@ -1,0 +1,12 @@
+*.csv
+*.png
+*.gif
+*.mp4
+*.pdf
+*.xlsx
+data/
+*video_script*
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
